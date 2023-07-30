@@ -8,4 +8,4 @@ leaves by coupling PROSPECT with a specular function
 
 
 # Dataset 
-Include measurements conducted in the hemisperical space and in the principal plane. 
+Include measurements conducted in the hemisperical space (14 leaf sample) and in the principal plane (56 leaf sample). 
