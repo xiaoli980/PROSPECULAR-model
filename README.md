@@ -7,4 +7,5 @@ PROSPECULAR: A model for simulating multi-angular spectral properties of
 leaves by coupling PROSPECT with a specular function
 
 
-## Dataset include measurements conducted in the hemisperical space and in the principal plane. 
+# Dataset 
+Include measurements conducted in the hemisperical space and in the principal plane. 
