@@ -1,5 +1,5 @@
 # PROSPECULAR-model
-This script allows to simulate multi-angular bidirectional reflectance factor (BRF) and 
+This matlab script allows to simulate multi-angular bidirectional reflectance factor (BRF) and 
 to retrieves both leaf biochemical and surface structural parameters from BRF.
 
 **Citation information**: Xiao Li, Zhongqiu Sun, Shan Lu, Kenji Omasa, 
