@@ -3,7 +3,7 @@ This matlab script allows to simulate multi-angular bidirectional reflectance fa
 to retrieves both leaf biochemical and surface structural parameters from BRF.
 
 # Dataset 
-Include measurements conducted in the hemisperical space (14 leaf samples) and in the principal plane (56 leaf samples). 
+Include multi-angular BRF measured in the hemisperical space (14 leaf samples) and in the principal plane (56 leaf samples). 
 
 # Citation information
 Xiao Li, Zhongqiu Sun, Shan Lu, Kenji Omasa, 
