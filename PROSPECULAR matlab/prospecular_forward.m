@@ -7,7 +7,7 @@
 % ***********************************************************************
 % Xiao Li, Zhongqiu Suna, Shan Lua, Kenji Omasa,2023 
 % PROSPECULAR: A model for simulating multi-angular spectral properties of 
-% leaves by coupling PROSPECT with a specular function
+% leaves by coupling PROSPECT with a specular function. Remote Sensing of Environment, 297, 113754
 % ***********************************************************************
 % Leaf BRF are calculated from 400 nm to 2500 nm (1 nm step) 
 
