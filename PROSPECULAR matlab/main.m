@@ -18,7 +18,7 @@
 % 
 % Xiao Li, Zhongqiu Sun, Shan Lu, Kenji Omasa,2023 
 % PROSPECULAR: A model for simulating multi-angular spectral properties of 
-% leaves by coupling PROSPECT with a specular function
+% leaves by coupling PROSPECT with a specular function. Remote Sensing of Environment, 297, 113754
 %
 % Féret, J.-B., Berger, K., de Boissieu, F., & Malenovský, Z., 2021. 
 % PROSPECT-PRO for estimating content of nitrogen-containing leaf proteins 
